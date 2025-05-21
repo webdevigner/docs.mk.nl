@@ -1,4 +1,4 @@
-site_name: mK Docs
+site_name: docs. /mijn KLOUWD
 site_url: https://mijnklouwd.nl
 theme:
   name: material
@@ -15,15 +15,15 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Dark mode
-      primary: green
-      accent: deep purple
+      primary: purple
+      accent: deep orange
 
     # Light Mode
     - scheme: default
       toggle:
         icon: material/weather-night
         name: Light mode
-      primary: blue
+      primary: purple
       accent: deep orange
 
 
@@ -56,4 +56,4 @@ extra:
       link: https://youtube.com/@klouwd
    
 
-copyright: Copyright &copy; mijnKlouwd.nl   
+copyright: Copyright &copy; mijnklouwd.nl   
