@@ -2,8 +2,8 @@ site_name: docs. /mijn KLOUWD
 site_url: https://mijnklouwd.nl
 theme:
   name: material
-  logo: assets/images/1logo-mkd-25.png
-  favicon: assets/images/1favi-mkd-25.png
+  logo: assets/images/12logo-mkd-25.png
+  favicon: assets/images/12favi-mkd-25.png
   features:
     - navigation.footer
   icon: 
