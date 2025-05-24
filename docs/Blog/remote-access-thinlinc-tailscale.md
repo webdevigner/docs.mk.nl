@@ -3,7 +3,7 @@ date:
   created: 2025-05-21
 ---
 
-# Get Started
+# Remote Access with Thinlinc & Tailscale #
 
 Zpou het waar zijn
 
