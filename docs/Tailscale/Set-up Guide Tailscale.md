@@ -4,7 +4,7 @@ Here's a **step-by-step guide** to install **Tailscale** on **Windows** and **Li
 
 ### 1. Install Tailscale on Windows
 
-1. **Download the installer** from the [Tailscale website](https://tailscale.com/download/).
+1. **Download the installer** from the [Tailscale website](https://tailscale.com/download/){target="_blank"}.
 2. **Run the installer** and follow the on-screen instructions.
 3. **Launch Tailscale** from the Start menu or by typing `tailscale` in the search bar.
 4. **Log in** with your Tailscale account or create a new one.
