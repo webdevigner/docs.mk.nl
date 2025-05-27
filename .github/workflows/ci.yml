@@ -27,8 +27,6 @@ jobs:
             mkdocs-material-
       - run: pip install mkdocs-material
       - run: mkdocs gh-deploy --force
-        with:
-          domain: https://docs.mijnklouwd.nl
-
+      
 
 # Deploy to the github-pages environment  
