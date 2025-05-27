@@ -69,14 +69,14 @@ the VSM Server always connects to the machine that is up and running.
     systemctl restart vsmagent
 ___
 
-- (https://github.com/webdevigner/github-desk/blob/main/notes/thinlinc-tailscale-remote-access.md)
+- [https://github.com/webdevigner/github-desk/blob/main/notes/thinlinc-tailscale-remote-access.md](https://github.com/webdevigner/github-desk/blob/main/notes/thinlinc-tailscale-remote-access.md){target="_blank"} 
 
-- (https://www.cendio.com/resources/docs/tag/config_vsmserver.html#std-server-config-folder-vsmserver)
+- [(https://www.cendio.com/resources/docs/tag/config_vsmserver.html#std-server-config-folder-vsmserver)](https://www.cendio.com/resources/docs/tag/config_vsmserver.html#std-server-config-folder-vsmserver){target="_blank"}
 
-- (https://www.cendio.com/resources/docs/tag/man/tl-config.1.html)
-- (https://community.thinlinc.com/t/thinlinc-and-tailscale/644/2)
+- [https://www.cendio.com/resources/docs/tag/man/tl-config.1.html](https://www.cendio.com/resources/docs/tag/man/tl-config.1.html){target="_blank"}
+- [https://community.thinlinc.com/t/thinlinc-and-tailscale/644/2](https://community.thinlinc.com/t/thinlinc-and-tailscale/644/2){target="_blank"}
 
-- (https://www.cendio.com/thinlinc/docs/install/simple-nat/)
+- [https://www.cendio.com/thinlinc/docs/install/simple-nat/](https://www.cendio.com/thinlinc/docs/install/simple-nat/){target="_blank"}
 ___
 
 
