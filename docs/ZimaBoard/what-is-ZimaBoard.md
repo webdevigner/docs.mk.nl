@@ -14,22 +14,22 @@ Key features include:
 
 ## Why Choose ZimaBoard?
 
-### ✅ 1. **All-in-One Home Server Solution**
+### 1. **All-in-One Home Server Solution**
 - No need for multiple devices — one board handles everything from media streaming to file sharing and home automation.
 
-### ✅ 2. **Easy Setup and Use**
+### 2. **Easy Setup and Use**
 - Comes with **CasaOS**, a user-friendly interface that simplifies server management.
 - Can be accessed via web browser and requires no advanced technical knowledge.
 
-### ✅ 3. **Customizable and Expandable**
+### 3. **Customizable and Expandable**
 - Supports **Docker**, **OpenWRT**, and other OS options for advanced users.
 - Can be used with **Sense Home Energy Monitor** for energy tracking.
 
-### ✅ 4. **Privacy and Control**
+### 4. **Privacy and Control**
 - Keeps your data **local**, giving you full control over your information.
 - No reliance on third-party cloud services.
 
-### ✅ 5. **Energy Efficient**
+### 5. **Energy Efficient**
 - Designed for low power consumption, making it ideal for 24/7 operation.
 
 ---

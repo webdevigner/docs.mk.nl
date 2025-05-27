@@ -8,8 +8,8 @@ Here's a **step-by-step guide** to install **Tailscale** on **Windows** and **Li
 2. **Run the installer** and follow the on-screen instructions.
 3. **Launch Tailscale** from the Start menu or by typing `tailscale` in the search bar.
 4. **Log in** with your Tailscale account or create a new one.
-5. **Accept the invite link** by clicking the link provided in your email or message. (See step 3 Below)
-
+5. **Accept the invite link** by clicking the link provided in your email or message.
+   **`See Step 6. Accept an Invite Link below`**
 ---
 
 ### 2. Install Tailscale on Linux
@@ -24,7 +24,8 @@ Here's a **step-by-step guide** to install **Tailscale** on **Windows** and **Li
    sudo tailscale up
    ```
 4. **Log in** with your Tailscale account or create a new one.
-5. **Accept the invite link** by clicking the link provided in your email or message. (see step 3 Below)
+5. **Accept the invite link** by clicking the link provided in your email or message. 
+   **`See Step 6. Accept an Invite Link below`**
 
 ---
 
@@ -32,7 +33,7 @@ Here's a **step-by-step guide** to install **Tailscale** on **macOS**, **iOS**, 
 
 ---
 
-### 1. Install Tailscale on macOS
+### 3. Install Tailscale on macOS
 
 1. Open your web browser and go to [https://login.tailscale.com](https://login.tailscale.com).
 2. Sign in with your **Google**, **GitHub**, or **email** account.
@@ -41,25 +42,27 @@ Here's a **step-by-step guide** to install **Tailscale** on **macOS**, **iOS**, 
 5. Open the downloaded `.dmg` file and drag the **Tailscale** app to your **Applications** folder.
 6. Launch **Tailscale** from your Applications folder or via Spotlight.
 7. You'll be prompted to **accept the Terms of Service** and **enable the Tailscale service**.
-8. Once installed, Tailscale will prompt you to **accept an invite link** (see step 3 below).
+8. Once installed, Tailscale will prompt you to **accept an invite link**  
+   **`See Step 6. Accept an Invite Link below`**    
 
 ---
 
-### 2. Install Tailscale on iOS
+### 4. Install Tailscale on iOS
 
 1. Open the **App Store** on your iOS device.
 2. Search for **"Tailscale"** and install the app.
 3. Open the **Tailscale app** and sign in with your **Google**, **GitHub**, or **email** account.
-4. You'll be prompted to **accept an invite link** (see step 3 below).
-
+4. You'll be prompted to **accept an invite link** 
+   **`See Step 6. Accept an Invite Link below`**
 ---
 
-### 3. Install Tailscale on Android
+### 5. Install Tailscale on Android
 
 1. Open the **Google Play Store** on your Android device.
 2. Search for **"Tailscale"** and install the app.
 3. Open the **Tailscale app** and sign in with your **Google**, **GitHub**, or **email** account.
-4. You'll be prompted to **accept an invite link** (see step 3 below).
+4. You'll be prompted to **accept an invite link** 
+   **`See Step 6. Accept an Invite Link below`**
 
 ---
 
@@ -70,7 +73,7 @@ Here's a **step-by-step guide** to install **Tailscale** on **macOS**, **iOS**, 
 
 
 
-### 3. Accept an Invite Link
+### 6. Accept an Invite Link
 
 1. After installation and sign-in, Copy the **invite link** from your Tailscale admin or team member.
 2. Paste the link into the Tailscale app and click **"Accept"**.
