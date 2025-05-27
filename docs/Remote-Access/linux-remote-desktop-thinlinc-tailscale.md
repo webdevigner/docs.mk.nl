@@ -1,6 +1,6 @@
 
 
-# Remote Access with Thinlinc & Tailscale #
+# Linux Remote Desktop w/ Thinlinc & Tailscale #
 
 !!! tip "How to install and Setup Thinlinc"
     <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lTdTZfjSRY4?si=Tja2Y0FDXHHaftwO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
@@ -8,11 +8,11 @@
 ### Troubleshooting
 
 !!! question
-    - **Remote access to my home machine with Thinlinc through Tailscale from external network...**
+    - **Remote access from my Laptop "only" to my home machine with Thinlinc through Tailscale from external network...**
     
     ---
 
-    - I tried to gain remote access from my laptop to my home machine via Thinlinc through Tailscale. It works fine on local network. But when I move to an external network, I can’t access my home machine using Thinlinc. SSH works fine and I have accessed my machine via SSH just fine
+    - I tried to gain remote access from my laptop to my home machine via Thinlinc through Tailscale. It works fine on local network. But when I move to an external network, I can’t access my home machine using Thinlinc. SSH works fine because I have accessed my machine from external network via SSH.
     
     - Note that ThinLinc connections are a two-step process. First the client establishes a connection to the ssh address you state in the connection form. But once connected, the ThinLinc server replies with the address where the client should actually connect to. In a simple setup this is the address the ThinLinc server itself thinks it has. So it is important to make them match up.
 
