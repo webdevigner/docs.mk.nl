@@ -6,6 +6,7 @@ theme:
   favicon: assets/images/12favi-mkd-25.png
   features:
     - navigation.footer
+    - content.code.copy
   icon: 
     previous: material/arrow-left
     next: material/arrow-right
