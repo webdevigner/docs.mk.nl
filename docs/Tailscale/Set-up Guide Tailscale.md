@@ -8,7 +8,7 @@ Here's a **step-by-step guide** to install **Tailscale** on **Windows** and **Li
 2. **Run the installer** and follow the on-screen instructions.
 3. **Launch Tailscale** from the Start menu or by typing `tailscale` in the search bar.
 4. **Log in** with your Tailscale account or create a new one.
-5. **Accept the invite link** by clicking the link provided in your email or message.
+5. **Accept the invite link** by clicking the link provided in your email or message. (See step 3 Below)
 
 ---
 
@@ -24,7 +24,7 @@ Here's a **step-by-step guide** to install **Tailscale** on **Windows** and **Li
    sudo tailscale up
    ```
 4. **Log in** with your Tailscale account or create a new one.
-5. **Accept the invite link** by clicking the link provided in your email or message.
+5. **Accept the invite link** by clicking the link provided in your email or message. (see step 3 Below)
 
 ---
 
@@ -63,12 +63,11 @@ Here's a **step-by-step guide** to install **Tailscale** on **macOS**, **iOS**, 
 
 ---
 
-### ✅ Verification
+### ✅ Verification macOS, IOS/Android
 
 - On **macOS**: Open a terminal and run `tailscale up` to ensure the service is running.
 - On **iOS/Android**: Check the **Tailscale app** for a confirmation message that you're connected to the network.
 
-Let me know if you'd like a guide for **Windows** or **Linux** as well!
 
 
 ### 3. Accept an Invite Link
