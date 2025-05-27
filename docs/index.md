@@ -1,4 +1,4 @@
-# Getting Started: w/ ZimaBoard
+# 🚀 Getting Started: w/ ZimaBoard
 
 !!! tip "DIY Tutorials for ZimaBoard & Casa Os"
 
@@ -6,9 +6,7 @@
 
 ---
 
-## 🚀 Get Started with ZimaBoard
-
-### 📦 First Look at the Home Server
+### First Look at the Home Server
 
 Whether you are an expert or a novice, this **Quick Start tutorial** will take you through the basic hardware specifications of the ZimaBoard, the basic applications of the pre-built home server, and some basic account permission systems for debugging and development.
 
@@ -16,40 +14,39 @@ With this short tutorial, you will be able to set up a **brand-new personal data
 
 ---
 
-## 🛠 Hardware Preparation
+## Hardware Preparation
 
-### 💡 Tips
+### * Tips
 
 - You **don’t need to connect your mouse and keyboard** to the ZimaBoard; you can access all the services on the ZimaBoard directly through the network after connecting the network cable.
 - For the first time, it is still recommended that you use the **miniDP / miniDP to HDMI** with a screen, and remember your **ZimaBoard IP address**.
 
 ---
 
-## 🔌 Power and Network Cable Connection
+## Power and Network Cable Connection
 
 1. Connect the **power cable** to the ZimaBoard.
 2. Connect the **network cable** to the ZimaBoard and your router.
 
 ---
 
-## 🖥 Get Started with the System in Three Steps
+## Get Started with the System in Three Steps
 
-### 💻 Tips
+### * Tips
 
 - You need a **computer**.
 - Make sure your **computer is connected to the same router as the ZimaBoard**.
 
-### 🌐 Step 1: Access the System
+### Step 1: Access the System
 
 1. Open a new tab in your browser.
 2. Enter: `http://casaos.local`
 
 > If you find that `http://casaos.local` cannot access CasaOS, please use the **IP address** to access the system.  
-> 🔍 [Tutorial to Find the IP Address](#how-to-find-the-ip-address)
-
+> [Tutorial to Find the IP Address](#how-to-find-the-ip-address)
 ---
 
-### 🧑‍💻 Step 2: Enter the System
+### Step 2: Enter the System
 
 1. You will be prompted to **create your account**.
 2. Click on **CasaOS Create Account**.
@@ -57,21 +54,21 @@ With this short tutorial, you will be able to set up a **brand-new personal data
 
 ---
 
-### 🔄 Step 3: Update the System
+### Step 3: Update the System
 
 - Updating the system will enable a better experience.
 - Navigate to the **System** or **Settings** section in the CasaOS dashboard and check for updates.
 
 ---
 
-## 🔐 Default Account for Pre-installed Apps
+## Default Account for Pre-installed Apps
 
 - **Username:** `casaos`  
 - **Password:** `casaos`
 
 ---
 
-## 📌 How to Find the IP Address
+## How to Find the IP Address
 
 1. Connect your computer to the same network as the ZimaBoard.
 2. Open a terminal or command prompt.
@@ -86,7 +83,7 @@ arp -a
 
 ---
 
-## 🧩 Hosting Apps
+## Hosting Apps
 
 The ZimaBoard comes with a variety of pre-installed applications, including:
 
@@ -101,7 +98,7 @@ You can also **self-deploy applications** using Docker or other methods.
 
 ---
 
-## 📂 Additional Resources
+## Additional Resources
 
 - [Install OMV](#install-omv)
 - [Install UnRAID](#install-unraid)
@@ -113,7 +110,7 @@ You can also **self-deploy applications** using Docker or other methods.
 
 ---
 
-## 📚 More Information
+## More Information
 
 For more details on the ZimaBoard hardware and software capabilities, visit the [ZimaBoard official documentation](https://www.zimaspace.com/docs/zimaboard/){target="_blank}.
 

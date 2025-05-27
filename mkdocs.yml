@@ -55,9 +55,6 @@ extra:
   social:
     - icon: simple/youtube
       link: https://youtube.com/@klouwd
-  footer_links:
-    - text: Privacy  
-      href: "https://mijnklouwd.nl/privacy-policy/"  
    
 
-copyright: . &copy; / &#9829;   
+copyright: . &copy; / &#9829; 
