@@ -42,4 +42,4 @@ Key features include:
 - **Gaming and VR** (e.g., Minecraft, Oculus)
 - **Home energy monitoring** (with Sense)
 
----
+---check it
